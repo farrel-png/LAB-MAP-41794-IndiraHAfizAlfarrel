@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Week02_41794</string>
+    <string name="input1">Angka 1:</string>
+    <string name="input2">Angka 2:</string>
+    <string name="angka1">Angka 1</string>
+    <string name="angka2">Angka 2</string>
+    <string name="tambah">Tambah</string>
+    <string name="kurang">Kurang</string>
+    <string name="kali">Kali</string>
+    <string name="bagi">Bagi</string>
+    <string name="btnTambah">Tambah</string>
+    <string name="btnKurang">Kurang</string>
+    <string name="btnKali">Kali</string>
+    <string name="btnBagi">Bagi</string>
+    <string name="hasil">Hasil</string>
+</resources>
