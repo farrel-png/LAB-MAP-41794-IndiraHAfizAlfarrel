@@ -1,0 +1,13 @@
+Lakukan pengujian terhadap app anda dengan skenario di bawah ini:
+
+a. Kosongkan Angka 1 dan Angka 2, lalu klik salah satu button
+
+app berhenti dan mati dan kembali ke menu awal
+
+b. Kosongkan angka 2, lalu klik button bagi
+
+App berhenti dan mati dan kembali ke menu awal
+
+c. Isi 0 (nol) pada angka 2, lalu klik button bagi
+
+Memberikan hasil Infinity
