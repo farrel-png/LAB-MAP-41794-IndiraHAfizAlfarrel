@@ -1,0 +1,9 @@
+Setelah mengikuti 6C menghasilkan 2 macam button
+
+yang pertama adalah tombol "HALO SPRING" dimana pada saat kita tekan dia seperti melompat seperti "spring" per dan kembali ke posisi semula
+
+yang kedua adalah tombol "Halo fling" dimana pada saat kita tekan tombol tersebut akan berputar namun pergerakannya tidak sama dengan shadow nya
+
+pada saat tombol tersebut dalam posisi terbalik background shadow akan berwarna putih dan sebaliknya akan menghasilkan warna abu abu
+
+dan juga berbeda dengan tombol "HALO SPRING", tombol "HALO FLING" tidak kembali ke posisi semula melainkan selama berputar tombol tersebut akan melambat hingga berhenti sehingga posisi bisa saja miring

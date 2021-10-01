@@ -1,0 +1,3 @@
+pada 6a saat layar di klik muncul lingkaran kecil yang lama lama menjadi besar, dan akan menghilang saat dari besar mengecil kembali
+
+Jika pada saat muncul di lakukannya interaksi kembali di tempat yang sama ataupun berbeda lingkaran tersebut akan mulai dari posisi awal lagi yaitu kecil terlebih dahulu

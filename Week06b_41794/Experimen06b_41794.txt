@@ -1,0 +1,1 @@
+Pada saat 6b di jalan kan hanya muncul gambar dari kuda01 dan setelah kita menggunakan onclick foto tersebut terlihat bergerak seperti animasi stopmotion
