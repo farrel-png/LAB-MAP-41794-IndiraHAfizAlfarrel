@@ -1,0 +1,3 @@
+Percobaan berhasil dengan lancar namun sepertinya saya ada kendala di radio button bentuk lingkaran radio button di hp saya tidak muncul tapi untuk di slide agar pergantian warna berhasil hanya itu saja
+
+Saya menggunakan Redmi note 9 pro, takutnya berpengaruh karena menggunakan AVD menyita waktu saya
