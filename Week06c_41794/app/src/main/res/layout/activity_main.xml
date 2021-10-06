@@ -17,7 +17,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.434"/>
-    
+
     <umn.ac.id.week06c_41794.TombolFling
         android:id="@+id/myflingbutton"
         android:layout_width="wrap_content"

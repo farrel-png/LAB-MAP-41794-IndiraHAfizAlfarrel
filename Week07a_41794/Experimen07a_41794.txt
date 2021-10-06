@@ -1,0 +1,3 @@
+Pada modul 7a  pada saat di jalankan terdapat dua fungsi yaitu mengambil foto dan juga mengambil video
+
+setiap kali mengambil foto dan video foto hasil yang sebelumnya sudah di ambil akan hilang dan hanya ada hasil ambil terakhir
