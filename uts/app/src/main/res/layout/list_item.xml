@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/imagepreview_music"
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:src="@drawable/ic_baseline_volume_up_24"
+        android:contentDescription="TODO"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@id/imagepreview_music"
+        android:layout_toRightOf="@id/imagepreview_music"
+        android:text="JUDUL"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/kategori"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/judul"
+        android:layout_alignLeft="@id/judul"
+        android:layout_alignBottom="@id/imagepreview_music"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginBottom="2dp"
+        android:text="KATEGORI"
+        android:textSize="16sp" />
+
+    <ImageButton
+        android:id="@+id/delete"
+        android:layout_width="106dp"
+        android:layout_height="46dp"
+        android:layout_alignBottom="@+id/imagepreview_music"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/delete_bg"
+        android:src="@drawable/ic_baseline_delete_24" />
+
+</RelativeLayout>
