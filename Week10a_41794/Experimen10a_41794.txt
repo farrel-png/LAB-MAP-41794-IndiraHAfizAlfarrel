@@ -1,0 +1,3 @@
+Pada percobaan pertama di week10a_41794 dihasilkan 5000mili detik pada percobaan kedua menghasilkan 10000 dan pada percobaan ketika menghasilkan 11400 mili detik
+
+Untuk percobaan keempat didapatkan 5200 mili detik
